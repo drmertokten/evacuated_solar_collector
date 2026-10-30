@@ -6,7 +6,7 @@ Makaledeki tüm hesaplar ve şekiller bu depodan üretilir (Python 3.10+).
     python run_all.py          # çıktılar ./out klasörüne yazılır (~1 dk)
 
 ## Girdi
-- `veri/deney_verileri.xlsx`: Ankara, 19–21 Temmuz 2023, 10:00–15:00, 10 dk aralık (3 × 31 satır). Her gün için bir sütun bloğu: ışınım (kolektör düzleminde), çevre, depo, ortak giriş, geleneksel çıkış, PTC giriş (giriş ile aynı), PTC çıkış.
+- `veri/deney_verileri.xlsx`: Ankara, 19–21 Temmuz, 10:00–15:00, 10 dk aralık (3 × 31 satır). Her gün için bir sütun bloğu: ışınım (kolektör düzleminde), çevre, depo, ortak giriş, geleneksel çıkış, PTC giriş (giriş ile aynı), PTC çıkış.
 - `veri/sistem_bilgisi.docx` (isteğe bağlı): yalnızca fotoğraf panelini (`fig_photos.png`) üretmek için okunur; yoksa bu adım atlanır.
 
 ## Betikler (sırayla)
